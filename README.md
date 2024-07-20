@@ -3,7 +3,7 @@
 Welcome to the Quantum Computing repository! This comprehensive roadmap is designed to provide an effective physics background and best practices for integrating quantum computing with computer science. Below you will find detailed descriptions and summaries of each topic, covering fundamental concepts, quantum bits (qubits), and quantum circuits with CIRQ.
 
 ## Physics Background
-[Link to Course](https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017)
+[Link to MIT Course](https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017)
 
 This section provides a strong foundation in quantum theory, essential for understanding and developing quantum computing applications.
 
